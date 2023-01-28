@@ -46,9 +46,3 @@ DELETE FROM STUD WHERE sno = 107;
 
 -- for saving the table in database
 commit;
-
-
-
-
-
-
