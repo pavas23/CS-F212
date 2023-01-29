@@ -5,4 +5,4 @@
 | Lab | Topic | Lab Sheet | Date |
 | ------------- | ------------- | --- | -- |
 | 1  | Learning basic sql queries to create table and filter data | [Lab 1](https://github.com/pavas23/CS-F212/blob/master/Lab01/Labsheet1%20.pdf) | 21 Jan 2023 |
-| 2  | How to create user, difference between CDB and PDB, learning advanced sql queries | [Lab 2](https://github.com/pavas23/CS-F212/blob/master/Lab02/Labsheet2%20.pdf) | 28 Jan 2023 |
+| 2  | How to create user, difference between CDB and PDB, learning advanced sql queries | [Lab 2](https://github.com/pavas23/CS-F212/blob/master/Lab02/LabSheet2.pdf) | 28 Jan 2023 |
