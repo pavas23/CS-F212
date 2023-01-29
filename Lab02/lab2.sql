@@ -103,7 +103,3 @@ ALTER TABLE Book DROP COLUMN Price;
 
 -- saving the changes
 commit;
-
-
-
-
