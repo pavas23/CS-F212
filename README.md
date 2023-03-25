@@ -17,7 +17,7 @@ concurrency control and crash recovery.
 | 5  | Using aggregate functions in sql, full outer join, group by and having clause | [Lab 5](https://github.com/pavas23/CS-F212/blob/master/Lab05/LabSheet5.pdf) | 25 Feb 2023 |
 | 6  | Joining three tables, trying various approaches like without nesting, using set operations | [Lab 6](https://github.com/pavas23/CS-F212/blob/master/Lab06/LabSheet6.pdf) | 11 March 2023 |
 | 7  | Joining three tables, trying various approaches like without nesting, using set operations | [Lab 7](https://github.com/pavas23/CS-F212/blob/master/Lab07/LabSheet7.pdf) | 18 March 2023 |
-| 8  | Introduction to PL-SQL, creating procedures and functions and executing them | [Lab 8](https://github.com/pavas23/CS-F212/blob/master/Lab07/LabSheet7.pdf) | 25 March 2023 |
+| 8  | Introduction to PL-SQL, creating procedures and functions and executing them | [Lab 8](https://github.com/pavas23/CS-F212/blob/master/Lab08/LabSheet8.pdf) | 25 March 2023 |
 
 
 
