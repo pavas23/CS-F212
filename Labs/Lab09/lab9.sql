@@ -161,18 +161,3 @@ ans := func2(a,b);
 dbms_output.put_line(' sum is : '|| ans);
 end;
 /
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
