@@ -18,6 +18,5 @@ concurrency control and crash recovery.
 | 6  | Joining three tables, trying various approaches like without nesting, using set operations | [Lab 6](https://github.com/pavas23/CS-F212/blob/master/Lab06/LabSheet6.pdf) | 11 March 2023 |
 | 7  | Joining three tables, trying various approaches like without nesting, using set operations | [Lab 7](https://github.com/pavas23/CS-F212/blob/master/Lab07/LabSheet7.pdf) | 18 March 2023 |
 | 8  | Introduction to PL-SQL, creating procedures and functions and executing them | [Lab 8](https://github.com/pavas23/CS-F212/blob/master/Lab08/LabSheet8.pdf) | 25 March 2023 |
-
-
-
+| 9  | Creating procedures and functions in PL-SQL | [Lab 9](https://github.com/pavas23/CS-F212/blob/master/Labs/Lab09/LabSheet9.pdf) | 8 April 2023 |
+| 10  | Triggers, Cursor, Sequence and inbuilt functions in SQL | [Lab 10](https://github.com/pavas23/CS-F212/blob/master/Labs/Lab10/LabSheet10.pdf) | 15 April 2023 |
